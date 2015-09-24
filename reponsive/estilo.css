@@ -1,0 +1,79 @@
+html {
+  font-size:16px;
+  height:100%;
+}
+
+html body {
+  font:normal 62.5% Helvetica, Tahoma, Arial, sans-serif;
+  height:100%;
+}
+
+html body img, html body video, html body audio {
+  display:block;
+}
+
+.container {
+	border:200px solid WITHE;
+  margin:0 auto;
+  max-width:1024px;
+  width:100%;
+}
+
+.information {
+	border:1px solid WITHE;
+	text-align: center;
+	font:normal 200% sans-serif;
+  height:100%
+}
+.image {
+	border:1px solid WITHE;
+	display:inline-block;
+}
+
+.image img {
+	width: 1024px; 
+	height: 400px;
+}
+.description {
+	border:1px solid WITHE;
+	display:inline-block;
+	margin:0px auto;
+	width:800px;
+}
+.sidebar  {
+	border:1px solid WITHE;
+	display:inline-block;
+	vertical-align:top;
+	width:200px;
+	font:normal 200% sans-serif;
+  height:100%
+}
+.content {
+	border:1px solid WITHE;
+	display:inline-block;
+	margin-left:15px;
+	vertical-align:top;
+	width:800px;
+}
+
+.content img {
+    width: 245px; 
+	height: 245px;
+display:inline-block;
+}
+.content h2 {
+   font-weight: bold; 
+   text-align: center
+
+}
+.jobs {
+   font-weight: bold; 
+   text-align: center
+ 
+}
+
+.jobs img {
+	width: 700px; 
+	height: 400px;
+
+
